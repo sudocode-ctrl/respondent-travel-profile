@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/respondent-travel-profile/static/css/main.ea80c389.css",
-    "main.js": "/respondent-travel-profile/static/js/main.f306fe5c.js",
+    "main.js": "/respondent-travel-profile/static/js/main.69fc093a.js",
     "static/js/787.d0229bf5.chunk.js": "/respondent-travel-profile/static/js/787.d0229bf5.chunk.js",
     "static/media/busicon.jfif": "/respondent-travel-profile/static/media/busicon.1fc2173a1fe66c4a0ebc.jfif",
     "static/media/nonac-icon.jfif": "/respondent-travel-profile/static/media/nonac-icon.10790517277cf4d81767.jfif",
     "static/media/ac_seat_icon.jfif": "/respondent-travel-profile/static/media/ac_seat_icon.5fb1288136fe9ec891f0.jfif",
     "static/media/logo_icon.jfif": "/respondent-travel-profile/static/media/logo_icon.8a252c19af5b795dc1a8.jfif",
+    "static/media/std_icon.jfif": "/respondent-travel-profile/static/media/std_icon.fb6f032785c7c6df1590.jfif",
     "index.html": "/respondent-travel-profile/index.html",
     "main.ea80c389.css.map": "/respondent-travel-profile/static/css/main.ea80c389.css.map",
-    "main.f306fe5c.js.map": "/respondent-travel-profile/static/js/main.f306fe5c.js.map",
+    "main.69fc093a.js.map": "/respondent-travel-profile/static/js/main.69fc093a.js.map",
     "787.d0229bf5.chunk.js.map": "/respondent-travel-profile/static/js/787.d0229bf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea80c389.css",
-    "static/js/main.f306fe5c.js"
+    "static/js/main.69fc093a.js"
   ]
 }
